@@ -1,1 +1,1 @@
-# ML-AI_Patent_Case_Law
+# AI_Patent_Case_Law
